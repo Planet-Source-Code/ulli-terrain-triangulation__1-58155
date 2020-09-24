@@ -1,0 +1,3 @@
+Terrain Triangulation.
+
+This creates a triangulated terrain model from samples taken in the real world. Samples consist of x-, y-, and z-coordinates taken at arbitrary points in the terrain during a survey on site or during a satelite or airborne radar survey. The project shows several methods and techniques regarding trigonometry, maths, and transforming/projecting 3D entities onto a 2D drawing canvas. Some documentation and the basic theory about the triangulation process is included. Download is 77kB.

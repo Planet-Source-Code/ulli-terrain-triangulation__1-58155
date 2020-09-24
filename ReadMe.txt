@@ -1,0 +1,1 @@
+Compile the triangulation.dll 1st and then add a reference to it to the pTriangulation project.
